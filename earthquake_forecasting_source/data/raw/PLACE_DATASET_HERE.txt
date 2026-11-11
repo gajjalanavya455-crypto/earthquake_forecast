@@ -1,0 +1,1 @@
+Download a USGS earthquake catalogue CSV and save it in this folder as earthquakes.csv.
